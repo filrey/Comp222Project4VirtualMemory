@@ -1,0 +1,29 @@
+Assignment #4 
+
+Structs:
+status{int physical address, int pagefault, int }
+
+Main()
+// user instructions 
+//Option 1
+//OPtion 2
+//Option 3
+
+On Selection
+
+Case 1
+
+// Set Parameters
+
+Create pageTable 
+
+Case 2
+
+// Map Virtual Address
+// Enter a virtual memory address to access :
+MapVAddress(int memAccess); // Returns struct status
+
+
+Case 3
+
+// Quit Program
